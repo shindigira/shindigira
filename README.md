@@ -1,4 +1,4 @@
-## Hey, I'm Nathan (ST). 
+## Hey, I'm Sigmund. 
 I live in Washington DC. I like music, good food, being outside, and coding. 
 
 ### Get In Touch
