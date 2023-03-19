@@ -9,7 +9,7 @@ I live in Washington DC. I like music, good food, being outside, and coding.
 ...and many others
 
 ### Resume
-* <a href="https://44cc5c7f.resumecv.pages.dev/">Resume</a>
+* <a href="https://080fc8ec.resumecv.pages.dev/">Resume</a>
 
 ### My Project Repos
 * Repo: <a href="https://github.com/shindigira/Spartan-Fitness">Spartan Fitness</a>, Live: <a href="https://14377928.spartan-fitness.pages.dev/">Deployed</a> - Responsive Fitness Website (Vite, TypeScript, React, TailwindCSS, Framer Motion)
