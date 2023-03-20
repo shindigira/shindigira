@@ -14,4 +14,7 @@ I live in Washington DC. I like music, good food, being outside, and coding.
 
 ### My Project Repos
 * Repo: <a href="https://github.com/shindigira/Spartan-Fitness">Spartan Fitness</a>, Live: <a href="https://14377928.spartan-fitness.pages.dev/">Deployed</a> - Responsive Fitness Website (Vite, TypeScript, React, TailwindCSS, Framer Motion)
+* Repo: <a href="https://github.com/shindigira/car-rental">Car Rental</a>, Live: <a href="https://e4b5a714.vehicle-rental.pages.dev/">Deployed</a> - Responsive  Website (React, SASS)
 * Repo: <a href="https://github.com/shindigira/CityDashboard">City Dashboard</a> - Widgets Tool (React, Express, Firebase)
+
+
