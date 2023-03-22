@@ -9,7 +9,7 @@ I live in Washington DC. I like music, good food, being outside, and coding.
 ...and many others
 
 ### Resume and Portfolio
-* <a href="https://resume-cv-liart.vercel.app/">Resume</a>
+* <a href="https://resume-cv-liart.vercel.app/">Resumé</a>
 * <a href="https://portfolio-website-tau-orpin.vercel.app/">Portfolio</a>
 
 ### My Project Repos
