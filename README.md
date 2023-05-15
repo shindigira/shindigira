@@ -13,6 +13,7 @@ I live in Washington DC. I like music, good food, being outside, and coding.
 * <a href="https://portfolio-website-tau-orpin.vercel.app/">Portfolio</a>
 
 ### My Project Repos
+* Repo: <a href="https://github.com/shindigira/GameStar">Game Star</a>, Live: <a href="https://game-star-iifzfx36q-shindigira.vercel.app/">Deployed</a> - Responsive Game Information Website (React, TailwindCSS, React-Query, ChatGPT)
 * Repo: <a href="https://github.com/shindigira/Spartan-Fitness">Spartan Fitness</a>, Live: <a href="https://14377928.spartan-fitness.pages.dev/">Deployed</a> - Responsive Fitness Website (Vite, TypeScript, React, TailwindCSS, Framer Motion)
 * Repo: <a href="https://github.com/shindigira/car-rental">Car Rental</a>, Live: <a href="https://car-rental-dun.vercel.app/">Deployed</a> - Responsive  Website (React, SASS)
 * Repo: <a href="https://github.com/shindigira/CityDashboard">City Dashboard</a> - Widgets Tool (React, Express, Firebase)
