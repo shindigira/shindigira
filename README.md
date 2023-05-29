@@ -1,5 +1,5 @@
-## Hey, I'm Sigmund. 
-I live in Washington DC. I like music, good food, being outside, and coding. 
+## Introduction. 
+I like music, good food, being outside, and coding. 
 
 ### Get In Touch
 <a href="mailto:shindigira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/sntang/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
