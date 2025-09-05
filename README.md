@@ -12,7 +12,10 @@ I like music, good food, being outside, and coding.
 * <a href="https://resume-cv-liart.vercel.app/">Resumé</a>
 * <a href="https://portfolio-website-tau-orpin.vercel.app/">Portfolio</a>
 
-### My Project Repos
+### My Tools
+* Repo: <a href="https://github.com/shindigira/audioToolHeadless">audioToolHeadless</a>, Live: <a href="https://www.npmjs.com/package/audiotoolheadless">NPM Package</a> - Easy to use audio module for frontends
+  
+### My UI Repos
 * Repo: <a href="https://github.com/shindigira/GameStar">Game Star</a>, Live: <a href="https://game-star-iifzfx36q-shindigira.vercel.app/">Deployed</a> - Responsive Game Information Website (React, TailwindCSS, React-Query, ChatGPT)
 * Repo: <a href="https://github.com/shindigira/Spartan-Fitness">Spartan Fitness</a>, Live: <a href="https://14377928.spartan-fitness.pages.dev/">Deployed</a> - Responsive Fitness Website (Vite, TypeScript, React, TailwindCSS, Framer Motion)
 * Repo: <a href="https://github.com/shindigira/car-rental">Car Rental</a>, Live: <a href="https://car-rental-dun.vercel.app/">Deployed</a> - Responsive  Website (React, SASS)
